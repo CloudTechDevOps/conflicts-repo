@@ -1,5 +1,5 @@
 # Define two numerical variables
-num1 = 12
+num1 = 20
 num2 = 15
 
 # Calculate the sum
