@@ -2,7 +2,6 @@
 num1 = 700
 num2 = 200
 # Calculate the sum
-total = num1 X num2
 
 # Print the result using an f-string
 print(f"The sum of {num1} and {num2} is {total}.")
